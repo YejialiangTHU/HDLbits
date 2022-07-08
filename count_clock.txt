@@ -6,7 +6,7 @@ module count_clock(
     output reg [7:0] 		hh,
     output reg [7:0] 		mm,
     output reg [7:0] 		ss
-); 
+);// 
 
     //ss cnt
     wire ss_en_l;
