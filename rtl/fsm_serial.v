@@ -1,4 +1,4 @@
-module fsm_serial(
+module fsm_serial (
 
     input       clk,
     input       in,
